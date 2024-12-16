@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Travis Estell’s AEM Franklin Website
+This is a sample website powered by the AEM Franklin content management system.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-franklin-sample-project--taestell.hlx.page/
+- Live: https://main--aem-franklin-sample-project--taestell.hlx.live/
 
 ## Installation
 
